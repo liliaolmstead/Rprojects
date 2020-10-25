@@ -1,0 +1,24 @@
+{
+    "id": "74FEBE96",
+    "path": "~/Desktop/R projects/DEanalysis_CD8/de_script_CD8.R",
+    "project_path": "de_script_CD8.R",
+    "type": "r_source",
+    "hash": "1405636963",
+    "contents": "",
+    "dirty": false,
+    "created": 1595989728835.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "535,0",
+        "scrollLine": "512"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596099936,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596099936092,
+    "read_only": false,
+    "read_only_alternatives": []
+}

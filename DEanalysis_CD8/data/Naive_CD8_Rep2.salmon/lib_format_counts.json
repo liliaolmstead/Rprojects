@@ -1,0 +1,22 @@
+{
+    "read_files": "[ Naive_CD8+_Rep2_R1.fastq.gz, Naive_CD8+_Rep2_R2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 37602619,
+    "num_assigned_fragments": 37602619,
+    "num_frags_with_concordant_consistent_mappings": 34978132,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2723010,
+    "strand_mapping_bias": 0.000005088867929868539,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 178,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 34978132,
+    "SF": 1417229,
+    "SR": 1305603,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

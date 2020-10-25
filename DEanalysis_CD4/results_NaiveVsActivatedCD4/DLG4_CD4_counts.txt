@@ -1,0 +1,7 @@
+	count	sampletype
+Activated_CD4_Rep1	598.120131364555	Activated_CD4
+Activated_CD4_Rep2	680.152777856219	Activated_CD4
+Activated_CD4_Rep3	426.236149078609	Activated_CD4
+Naive_CD4_Rep1	366.716882190019	Naive_CD4
+Naive_CD4_Rep2	456.651008257661	Naive_CD4
+Naive_CD4_Rep3	537.863258554255	Naive_CD4

@@ -1,0 +1,22 @@
+{
+    "read_files": "[ DMSO_CD8+_Rep2_R1.fastq.gz, DMSO_CD8+_Rep2_R2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 45841729,
+    "num_assigned_fragments": 45841729,
+    "num_frags_with_concordant_consistent_mappings": 42387097,
+    "num_frags_with_inconsistent_or_orphan_mappings": 3571780,
+    "strand_mapping_bias": 0.000002878226099239962,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 122,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 42387097,
+    "SF": 1948006,
+    "SR": 1623652,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

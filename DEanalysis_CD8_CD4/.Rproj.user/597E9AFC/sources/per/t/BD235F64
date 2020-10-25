@@ -1,0 +1,25 @@
+{
+    "id": "BD235F64",
+    "path": "~/Desktop/R projects/DEanalysis_CD8_CD4/de.analysis_CD8_CD4.R",
+    "project_path": "de.analysis_CD8_CD4.R",
+    "type": "r_source",
+    "hash": "32918594",
+    "contents": "",
+    "dirty": false,
+    "created": 1596083319091.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "572,0",
+        "scrollLine": "657"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596098872,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596098872494,
+    "read_only": false,
+    "read_only_alternatives": []
+}

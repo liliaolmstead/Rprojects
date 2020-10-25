@@ -1,0 +1,7 @@
+	count	sampletype
+Activated_CD8_Rep1	795.680085546501	Activated_CD8
+Activated_CD8_Rep2	785.201837798201	Activated_CD8
+Activated_CD8_Rep3	780.092155776986	Activated_CD8
+Naive_CD8_Rep1	887.312662068369	Naive_CD8
+Naive_CD8_Rep2	984.888190101065	Naive_CD8
+Naive_CD8_Rep3	941.914060213136	Naive_CD8
